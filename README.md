@@ -49,7 +49,7 @@ O VacinApp é útil para gerenciamento e controle de vacinas de unidades hospita
 ```bash
 
 # Clone o repositório
-$ git clone <>
+$ git clone <https://github.com/suannyrodrigues/projetofinal_individual.git>
 
 # Instale as dependências
 ⇨ npm install
