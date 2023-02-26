@@ -43,3 +43,19 @@ O VacinApp é útil para gerenciamento e controle de vacinas de unidades hospita
 </ul>
 
 <hr>
+
+## 🖧 Fazendo acontecer:
+
+```bash
+
+# Clone o repositório
+$ git clone <>
+
+# Instale as dependências
+⇨ npm install
+⇨ npm install sqlite --save
+⇨ npm install sqlite3 --save
+
+# Execução da aplicação 
+⇨ npm run dev
+```
